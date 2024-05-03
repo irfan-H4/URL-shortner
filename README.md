@@ -25,7 +25,7 @@ This is a simple URL shortener website created using JavaScript and Bootstrap. I
  <img src ="screencapture.png">
 
 ## Live Demo
-[Provide a link to a live demo if available]
+
 
 ## Credits
 - TinyURL API: [https://tinyurl.com/tools/api-docs](https://tinyurl.com/tools/api-docs)
