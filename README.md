@@ -8,6 +8,8 @@ This is a simple URL shortener website created using JavaScript and Bootstrap. I
 - Live background effect for an engaging user experience.
 
 ## Technologies Used
+- Html
+- css
 - JavaScript
 - Bootstrap
 - TinyURL API
