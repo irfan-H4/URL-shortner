@@ -22,7 +22,7 @@ This is a simple URL shortener website created using JavaScript and Bootstrap. I
 5. Copy the shortened URL and share it as needed.
 
 ## Screenshots
-[Include any relevant screenshots here]
+ <img = src"screencapture.png">
 
 ## Live Demo
 [Provide a link to a live demo if available]
